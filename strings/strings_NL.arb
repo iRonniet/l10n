@@ -7,9 +7,9 @@
   "@columnTitleUser": {
     "description": "DeckColumnType User title"
   },
-  "columnTitleNotifications": "Notifications",
+  "columnTitleNotifications": "Notificaties",
   "@columnTitleNotifications": {
-    "description": "DeckColumnType Notifications title"
+    "description": "DeckColumnType Notificaties titel"
   },
   "columnTitleLikes": "Likes",
   "@columnTitleLikes": {
